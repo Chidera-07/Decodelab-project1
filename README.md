@@ -1,5 +1,5 @@
 
-# project1
+# Project1
 Data cleaning and transformation project using Excel and Power Query to improve data quality, handle missing values, remove inconsistencies, and prepare data for analysis. [Dataset for Data Analytics2.xlsx](https://github.com/user-attachments/files/28470211/Dataset.for.Data.Analytics2.xlsx)
 
 
